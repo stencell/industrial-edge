@@ -18,10 +18,10 @@ global:
     account: nstephan
 
   datacenter:
-    # clustername: sten2
-    clustername: cluster-5j96l
-    # domain: sandbox1022.opentlc.com
-    domain: 5j96l.sandbox650.opentlc.com
+    clustername: sten2
+    # clustername: cluster-5j96l
+    domain: sandbox1022.opentlc.com
+    # domain: 5j96l.sandbox650.opentlc.com
 
   edge:
     clustername: PLAINTEXT
