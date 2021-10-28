@@ -22,3 +22,7 @@ global:
     clustername: cluster-5j96l
     # domain: sandbox1022.opentlc.com
     domain: 5j96l.sandbox650.opentlc.com
+
+  edge:
+    clustername: PLAINTEXT
+    domain: PLAINTEXT
